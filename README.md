@@ -1,1 +1,1 @@
-New Johnny Bell
+TypeScript next.js & styled-components starter. 
